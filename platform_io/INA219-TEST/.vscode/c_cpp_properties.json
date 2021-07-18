@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/GIT/francisco-llave-plataforma-giratoria-estabilidad/TFG/software/platform_io/INA219-TEST/INA219-TEST/lib/Adafruit_BusIO-master",
+                "D:/GIT/francisco-llave-plataforma-giratoria-estabilidad/TFG/software/platform_io/INA219-TEST/INA219-TEST/lib/Adafruit_INA219-master"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
